@@ -1,0 +1,16 @@
+show vlan brief command output.
+
+Use the show interface interface-id switchport command to verify the VLAN membership.
+
+configured as a trunk link using the show interfaces trunk command, as shown.
+
+show running-config interface fa0/5
+
+Verify the port configuration on S1 using the show interfaces interface-id switchport command.
+
+Verify the subinterface status using the show ip interface brief command.
+
+the show interfaces | include Gig|802.1Q command is useful but it generates a great deal of additional unrequired output.
+
+correct VLAN using the encapsulation dot1q 10 subinterface configuration mode command.
+
